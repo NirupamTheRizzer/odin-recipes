@@ -1,0 +1,27 @@
+* {
+  /* outline: 2px solid red; */
+  margin: 5px 5px 5px 5px;
+  padding: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    text-align: center;
+    background-color: lightskyblue;
+}
+.button{
+    text-align: center;
+    border: 3px black solid;
+    border-radius: 8px;
+    display: inline-block;
+    padding: 10px 15px; /*Up/down and left/right*/
+    background-color: lightgrey;
+    text-decoration: none;
+    color: black;
+}
+.silly{
+    position: bottom;
+    text-align: center;
+    font-size: 12px;
+    background-color: lightyellow;
+    display: block
+}
